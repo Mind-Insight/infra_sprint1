@@ -1,5 +1,5 @@
- IP: 84.201.164.58;
- name_taski: https://taskiiii.sytes.net;
- name_kittygram: https://testhost.serveminecraft.net;
- login: admin;
- password: admin;
+IP: 84.201.164.58;
+name_taski: https://taskiiii.sytes.net;
+name_kittygram: https://testhost.serveminecraft.net;
+login: admin;
+password: admin;
